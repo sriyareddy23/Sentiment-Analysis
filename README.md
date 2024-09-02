@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis
+# SentimentPulse
 
 ## Project Overview
 
